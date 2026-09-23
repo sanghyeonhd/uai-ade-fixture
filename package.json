@@ -1,0 +1,10 @@
+{
+  "name": "uai-ade-fixture",
+  "version": "1.0.0",
+  "private": true,
+  "description": "P22 acceptance fixture: a failing test the coding agent has to fix.",
+  "scripts": {
+    "test": "node --test"
+  },
+  "type": "module"
+}
