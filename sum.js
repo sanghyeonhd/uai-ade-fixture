@@ -1,4 +1,4 @@
-// The bug the agent has to find: addition written as subtraction.
+// Fixed, take two.
 export function sum(a, b) {
-  return a - b;
+  return a + b;
 }
